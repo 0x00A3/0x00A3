@@ -31,12 +31,10 @@
 
 <br/>
 <br>
-<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Birdlinux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birdlinuxx&show_icons=true&theme=dark" />
+  <img align="left" alt="Birdlinux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birdlinuxx&show_icons=true&theme=radical" />
 
-</details>
 
 [twitter]: https://twitter.com/Birdlinuxx
 [youtube]: https://youtube.com/Birdlinux
