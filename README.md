@@ -4,8 +4,8 @@
 ## I'm a Student, 16, FullStack Dev ~
 
 - 🖥️ At the moment im developing my website!
-- 🖥️ At the moment learning swift
-- 🖥️ For 2020 ~ Learn more stuff about pentesting and programming 
+- 🖥️ At the moment im learning swift!
+- 🖥️ For 2020 ~ Learn more stuff about pentesting and programming!
 
 
 ### Contact me ~
