@@ -1,14 +1,14 @@
-### Wassup Im George / Birdlinux
+### Hi Im George / Birdlinux ~
 [![Twitter Follow](https://img.shields.io/twitter/follow/Birdlinuxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBirdlinuxxr&screen_name=codeBirdLinuxx)
 
-## I'm a Student, 16, FullStack Dev
+## I'm a Student, 16, FullStack Dev ~
 
-- 🔭 At the moment im developing my website!
-- 🌱 At the moment learning swift
-- 🥅 2020 Goals: Learn more stuff about pentesting and programming 
+- 🖥️ At the moment im developing my website!
+- 🖥️ At the moment learning swift
+- 🖥️ For 2020 ~ Learn more stuff about pentesting and programming 
 
 
-### Connect with me:
+### Contact me ~
 
 [<img align="left" alt="Birdlinux | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Birdlinuxx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### What i work with ~
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
