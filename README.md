@@ -33,7 +33,7 @@
 <br>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Birdlinux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birdlinuxx&show_icons=true&theme=radical" />
+  <img align="left" alt="Birdlinux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birdlinuxx&show_icons=true&theme=dark" />
 
 
 [twitter]: https://twitter.com/Birdlinuxx
