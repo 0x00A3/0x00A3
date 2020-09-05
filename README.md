@@ -1,6 +1,4 @@
 ### Wassup Im George / Birdlinux
-
-[![Website](https://img.shields.io/website?label=Coming Soon&style=for-the-badge&url=https%3A%2F%2FComing Soon)]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Birdlinuxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBirdlinuxxr&screen_name=codeBirdLinuxx)
 
 ## I'm a Student, 16, FullStack Dev
