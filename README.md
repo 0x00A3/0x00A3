@@ -34,7 +34,7 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Birdlinux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birdlinuxx&show_icons=true&theme=dark" />
-
+  <img align="right" alt="Birdlinux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birdlinuxx&layout=compact&theme=dark">
 
 [twitter]: https://twitter.com/Birdlinuxx
 [youtube]: https://youtube.com/Birdlinux
