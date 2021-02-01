@@ -1,5 +1,5 @@
 ### Hi Im George / Birdlinux ~
-[![Twitter Follow](https://img.shields.io/twitter/follow/Birdlinuxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBirdlinuxxr&screen_name=codeBirdLinuxx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Birdlinuxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x00a3r&screen_name=code0x00a3)
 
 ## I'm a Student, 16, FullStack Dev ~
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-[twitter]: https://twitter.com/Birdlinuxx
+[twitter]: https://twitter.com/0x00a3
 [youtube]: https://youtube.com/Birdlinux
-[instagram]: https://instagram.com/Birdlinux
-[WhatsApp]: https://instagram.com/in/Birdlinux
+[instagram]: https://instagram.com/0x00a3
+[WhatsApp]: https://instagram.com/in/0x00a3
