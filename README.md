@@ -1,7 +1,7 @@
 ### Hi Im George / Birdlinux / 0x00a3 ~
 [![Twitter Follow](https://img.shields.io/twitter/follow/Birdlinuxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x00a3r&screen_name=0x00a3)
 
-## I'm a Student, 16, FullStack Dev ~
+## I'm a Student, 16, Gray Hat ~
 
 - 🖥️ Im curently learning Hardware Hacking!
 - 🖥️ Bug Hunting and RPS!
