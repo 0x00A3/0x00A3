@@ -7,17 +7,34 @@
 - 🖥️ Bug Hunting and RPS!
 
 
-### Contact me ~
+<br /><br /><br />
+# dotiles
 
-[<img align="left" alt="Birdlinux | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Birdlinuxx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Birdlinux | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
-<br/>
+[BSPWM]
 
-[twitter]: https://twitter.com/0x00a3
-[youtube]: https://youtube.com/Birdlinux
-[instagram]: https://instagram.com/0x00a3
-[WhatsApp]: https://instagram.com/in/0x00a3
+![Screenshot from 2021-03-13 18-22-27](https://user-images.githubusercontent.com/56656809/111083436-eea82c80-850d-11eb-87be-f4f6bfe2c9f3.png)
+
+
+-----------
+
+Editor: vim
+
+-----------
+
+Terminal: Alacritty
+
+-----------
+
+Clock: tty-clock
+
+-----------
+
+Music: Cava
+
+-----------
+
+Feh: [Here (NOT MINES!)](https://github.com/beikommen/dotiles/blob/main/feh.sh)
+
+-----------
